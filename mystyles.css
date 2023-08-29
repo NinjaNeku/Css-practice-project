@@ -1,0 +1,17 @@
+td{
+    background-color: orchid;
+    font-family: fantasy;
+}
+.blueboldtext{
+    color: blue;
+    font size: small;
+    font-weight: bold;
+}
+.greenunderlined{
+    text-decoration: underline;
+    color: greenyellow;
+}
+.orangehighlighter{
+    text-decoration: wavy;
+    color: orange;
+}
